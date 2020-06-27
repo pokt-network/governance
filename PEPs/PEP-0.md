@@ -1,7 +1,6 @@
 *Mandatory information
 
 # Attributes
-
 - **PEP #:** to be assigned by Editor
 - ***Title:**
 - ***Total Amount:** $
@@ -12,9 +11,7 @@
 - **Status:** Approved / Rejected
 - ***Discussion:** URL for official Discourse thread
 - **Fulfills:** PIP #s / PEP #s
-
     *Reimbursements will not be accepted if they do not fulfill previously approved PIPs/PEPs*
-
 - **Related Installments:** PEP #s
 - ***Created:** YYYY-MM-DD
 - ***Updated:** YYYY-MM-DD
