@@ -5,7 +5,7 @@
 - **Title:** 
 - **Author(s):** names/emails/usernames of authors
 - **Implementer(s):** names/emails/usernames of team implementing the upgrade (“PNF” if the Foundation will implement, “Bounty” if no implementers have volunteered yet)
-- **Type: Protocol** / Governance / Permission
+- **Type:** Protocol / Governance / Permission
 - **Category:** to be assigned by Editor
 - **Phase:** Signaling / Execution
 - **Status:** Approved / Rejected / Executed
