@@ -1,5 +1,3 @@
-*Mandatory information
-
 ---
 PIP #: to be assigned by Editor
 Title: 
@@ -16,6 +14,9 @@ Fulfills: PIP #s
 created: YYYY-MM-DD
 updated: YYYY-MM-DD, YYYY-MM-DD
 ---
+
+
+*Mandatory information
 
 
 
