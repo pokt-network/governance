@@ -10,7 +10,7 @@
 - **Category:** to be assigned by Editor
 - **Status:** Approved / Rejected
 - ***Discussion:** URL for official Discourse thread
-- **Fulfills:** PIP #s / PEP #s (*Reimbursements will not be accepted if they do not fulfill previously approved PIPs/PEPs*)
+- **Fulfills:** PIP #s / PEP #s ***Reimbursements will not be accepted if they do not fulfill previously approved PIPs/PEPs***
 - **Related Installments:** PEP #s
 - ***Created:** YYYY-MM-DD
 - ***Updated:** YYYY-MM-DD
