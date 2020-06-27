@@ -4,8 +4,8 @@
 - **PUP #:** to be assigned by Editor (e.g. PUP1-1)
 - ***Title:** e.g. proposed new value or addition/removal from the whitelist
 - ***Parameter:** PUPX (Name)
-- ***Author(s):** names/emails/usernames of authors
 - ***Type:** Non-numerical / Numerical / Whitelist
+- ***Author(s):** names/emails/usernames of authors
 - ***Discussion:** URL for official Discourse thread
 - ***Created:** YYYY-MM-DD
 - ***Updated:** YYYY-MM-DD
