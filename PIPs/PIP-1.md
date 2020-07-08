@@ -9,7 +9,7 @@
 - **Category:** to be assigned by Editor
 - **Phase:** Signaling / Execution
 - **Status:** Approved / Rejected / Executed
-- ***Discussion:** URL for official Discourse thread
+- ***Discussion:** https://research.pokt.network/t/pip-1-test-proposal/
 - **Requires:** PIP #s
 - **Replaces:** PIP #s
 - **Fulfills:** PIP #s
