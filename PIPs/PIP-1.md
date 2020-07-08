@@ -1,7 +1,7 @@
 *Mandatory information
 
 # Attributes
-- **PIP #:** to be assigned by Editor
+- **PIP #:** 1
 - ***Title:** Test Proposal
 - ***Author(s):** names/emails/usernames of authors
 - ***Implementer(s):** names/emails/usernames of team implementing the upgrade (“PNF” if the Foundation will implement, “Bounty” if no implementers have volunteered yet)
