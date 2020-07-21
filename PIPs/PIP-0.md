@@ -2,19 +2,19 @@
 
 # Attributes
 - **PIP #:** to be assigned by Editor
-- ***Title:** 
-- ***Author(s):** names/emails/usernames of authors
-- ***Implementer(s):** names/emails/usernames of team implementing the upgrade (“PNF” if the Foundation will implement, “Bounty” if no implementers have volunteered yet)
-- ***Type:** Protocol / Governance / Permission
+- ***Title:** Test Proposal
+- ***Author(s):** Jack Laing (jack@pokt.network)
+- ***Implementer(s):** Jack Laing (jack@pokt.network)
+- ***Type:** Governance
 - **Category:** to be assigned by Editor
-- **Phase:** Signaling / Execution
-- **Status:** Approved / Rejected / Executed
+- **Phase:** Signaling
+- **Status:** 
 - ***Discussion:** URL for official Discourse thread
-- **Requires:** PIP #s
-- **Replaces:** PIP #s
-- **Fulfills:** PIP #s
-- ***Created:** YYYY-MM-DD
-- ***Updated:** YYYY-MM-DD, YYYY-MM-DD
+- **Requires:** 
+- **Replaces:** 
+- **Fulfills:** 
+- ***Created:** 2020-07-21
+- ***Updated:** 
 
 
 # *Summary
