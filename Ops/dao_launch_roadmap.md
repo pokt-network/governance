@@ -9,7 +9,7 @@ These milestones may not necessarily be achieved in the following order, dependi
  * Aragon-compatible Ethereum wallet (MetaMask, Frame, Fortmatic, or Portis)
  * Rinkeby ETH
 
-## 1: Seeding the DAO
+## 1: Seeding the DAO
 
 ### Target Dates:
 Mainnet launch (July 28th)
@@ -36,7 +36,7 @@ Seeded DAO
  * The Governance Stake maturation requirement will not be active during this phase. The DAO can pass a majority vote at any time to activate the maturation requirement
  * The Legislature can begin voting on proposals, which anyone can submit; these will include Pocket Improvement Proposals (PIPs) such as protocol upgrades, Pocket Endowment Proposals (PEP) such as grant requests, and Parameter Update Proposals (PUPs) such as changes to the unstaking time
 
-## 3: Sufficiently Decentralized
+## 3: Sufficiently Decentralized
 
 ### Target Dates:
 September 1st
@@ -48,7 +48,7 @@ September 1st
 ### Steps / Available Actions:
  * The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour, subject to Majority Approval from Voting Token holders (50% yes votes)
 
-## 4: Opening the Voter Set
+## 4: Opening the Voter Set
 
 ### Target Dates:
 October 1st
