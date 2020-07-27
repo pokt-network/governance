@@ -57,10 +57,10 @@ October 1st
 Maxed-out Seed
 
 ### Steps / Available Actions:
-All members of the Pocket Network community can now join the Legislature by sending POKT (a Governance Stake) to the on-chain DAO treasury, writing in the tx memo the Ethereum address they’ll be using in Aragon and their Discord username. Their stake will be one of 2 options:
- * Trust-Minimized Stake: they have not yet proven themselves trustworthy, so they must stake the value of the DAO treasury divided by the number of Voting Token holders in the Aragon organization (we expect this to be an unpopular option until the Legislature has scaled and this stake becomes cheaper)
- * Trusted Stake: they find a Champion who will mint their voting token for them, or they reach Elite level in the Pocket Community Game, entitling them to a stake of 1,000 POKT
-Champions can vote in new Champions as another way to scale up the rate of new Voter admission
+ * All members of the Pocket Network community can now join the Legislature by sending POKT (a Governance Stake) to the on-chain DAO treasury, writing in the tx memo the Ethereum address they’ll be using in Aragon and their Discord username. Their stake will be one of 2 options:
+   * **Trust-Minimized Stake:** they have not yet proven themselves trustworthy, so they must stake the value of the DAO treasury divided by the number of Voting Token holders in the Aragon organization (we expect this to be an unpopular option until the Legislature has scaled and this stake becomes cheaper)
+   * **Trusted Stake:** they find a Champion who will mint their voting token for them, or they reach Elite level in the Pocket Community Game, entitling them to a stake of 1,000 POKT
+ * Champions can vote in new Champions as another way to scale up the rate of new Voter admission
 
 ## 5: Gamified Access
 
