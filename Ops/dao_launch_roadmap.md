@@ -18,9 +18,9 @@ Mainnet launch (July 28th)
 None
 
 ### Steps / Available Actions:
- * Initialize the Legislature with 5 founding Voters, who will each be assigned a VOTE in Aragon and be required to send 1,000 POKT (their Governance Stake) to the DAO treasury
+ * Initialize the Council with 5 founding Voters, who will each be assigned a VOTE in Aragon and be required to send 1,000 POKT (their Governance Stake) to the DAO treasury
  * Assign these founding Voters the role of Champion as well, which means they can vouch for new Voters and vote in new Champions
- * The first action of the Legislature will be voting to ratify the Constitution, providing a supermajority of founding Voters (80% yes votes) consent to the Constitution. No other action can be voted on until this has taken place
+ * The first action of the Council will be voting to ratify the Constitution, providing a supermajority of founding Voters (80% yes votes) consent to the Constitution. No other action can be voted on until this has taken place
 
 ## 2: Growing the Seed
 
@@ -34,7 +34,7 @@ Seeded DAO
  * Champions only can bring in new Voters, up to a cap of 50 Voters
  * All Voters must send 1,000 POKT (their Governance Stake) to the on-chain DAO treasury
  * The Governance Stake maturation requirement will not be active during this phase. The DAO can pass a majority vote at any time to activate the maturation requirement
- * The Legislature can begin voting on proposals, which anyone can submit; these will include Pocket Improvement Proposals (PIPs) such as protocol upgrades, Pocket Endowment Proposals (PEP) such as grant requests, and Parameter Update Proposals (PUPs) such as changes to the unstaking time
+ * The Council can begin voting on proposals, which anyone can submit; these will include Pocket Improvement Proposals (PIPs) such as protocol upgrades, Pocket Endowment Proposals (PEP) such as grant requests, and Parameter Update Proposals (PUPs) such as changes to the unstaking time
 
 ## 3: Sufficiently Decentralized
 
@@ -43,7 +43,7 @@ September 1st
 
 ### Prerequisites:
  * There are at least 100 independently operated Nodes
- * The Legislature has passed its first vote (and is therefore in Phase 2)
+ * The Council has passed its first vote (and is therefore in Phase 2)
 
 ### Steps / Available Actions:
  * The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour, subject to Majority Approval from Voting Token holders (50% yes votes)
@@ -57,8 +57,8 @@ October 1st
 Maxed-out Seed
 
 ### Steps / Available Actions:
- * All members of the Pocket Network community can now join the Legislature by sending POKT (a Governance Stake) to the on-chain DAO treasury, writing in the tx memo the Ethereum address they’ll be using in Aragon and their Discord username. Their stake will be one of 2 options:
-   * **Trust-Minimized Stake:** they have not yet proven themselves trustworthy, so they must stake the value of the DAO treasury divided by the number of Voting Token holders in the Aragon organization (we expect this to be an unpopular option until the Legislature has scaled and this stake becomes cheaper)
+ * All members of the Pocket Network community can now join the Council by sending POKT (a Governance Stake) to the on-chain DAO treasury, writing in the tx memo the Ethereum address they’ll be using in Aragon and their Discord username. Their stake will be one of 2 options:
+   * **Trust-Minimized Stake:** they have not yet proven themselves trustworthy, so they must stake the value of the DAO treasury divided by the number of Voting Token holders in the Aragon organization (we expect this to be an unpopular option until the Council has scaled and this stake becomes cheaper)
    * **Trusted Stake:** they find a Champion who will mint their voting token for them, or they reach Elite level in the Pocket Community Game, entitling them to a stake of 1,000 POKT
  * Champions can vote in new Champions as another way to scale up the rate of new Voter admission
 
@@ -85,7 +85,7 @@ TBD, dependent on Aragon releases
 
 ### Steps / Available Actions:
  * Pocket Network Foundation will install Conviction Voting apps for the USDRelayTargetRange and ReturnOnInvestmentTarget parameters
- * Using these apps, the Legislature will begin actively and continuously signaling what they believe the value of these parameters should be
+ * Using these apps, the Council will begin actively and continuously signaling what they believe the value of these parameters should be
 
 ## 7: Peer Moderation
 
@@ -97,7 +97,7 @@ Aragon Agreements app and Aragon Court are available on Aragon Chain mainnet
 
 ### Steps / Available Actions:
  * Pocket Network Foundation will configure a new Aragon organization, replacing the Aragon Approvals app (centralized moderation) with the Aragon Agreements app (decentralized moderation), then copy the token distribution over
- * Using the Agreements app, the Legislature will be able to challenge each other’s actions and take a more active role in enforcing the Constitution
+ * Using the Agreements app, the Council will be able to challenge each other’s actions and take a more active role in enforcing the Constitution
 
 ## 8: Re-evaluating the Champion System
 
@@ -144,7 +144,7 @@ TBD, dependent on technical research
 Technical achievements enabling an Aragon Agent to submit transactions to the Pocket Network (or equivalent cross-chain transactions)
 
 ### Steps / Available Actions:
-Pocket Network Foundation will configure the Aragon organization with the necessary tooling, then update the ACL with the necessary permissions, subject to supermajority approval by the Legislature and the compliance requirements outlined in the Constitution
+Pocket Network Foundation will configure the Aragon organization with the necessary tooling, then update the ACL with the necessary permissions, subject to supermajority approval by the Council and the compliance requirements outlined in the Constitution
 
 ## 12: Decentralizing Community Admin
 
