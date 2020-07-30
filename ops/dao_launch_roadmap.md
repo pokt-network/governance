@@ -34,7 +34,7 @@ Seeded DAO
  * Champions only can bring in new Voters, up to a cap of 50 Voters
  * All Voters must send 1,000 POKT (their Governance Stake) to the on-chain DAO treasury
  * The Governance Stake maturation requirement will not be active during this phase. The DAO can pass a majority vote at any time to activate the maturation requirement
- * The Council can begin voting on proposals, which anyone can submit; these will include Pocket Improvement Proposals (PIPs) such as protocol upgrades, Pocket Endowment Proposals (PEP) such as grant requests, and Parameter Update Proposals (PUPs) such as changes to the unstaking time
+ * The Council can begin voting on proposals, which anyone can submit; these will include Pocket Improvement Proposals (PIPs) such as protocol upgrades, Pocket Ecosystem Proposals (PEP) such as grant requests, and Parameter Update Proposals (PUPs) such as changes to the unstaking time
 
 ## 3: Sufficiently Decentralized
 
