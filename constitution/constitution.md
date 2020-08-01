@@ -22,8 +22,11 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 # Statutes
 
 ## 1. Interpretation
+
 1.1. This Constitution does not take precedence over the consensus rules defined by Pocket Core. If there is any conflict or inconsistency between this Constitution and the consensus rules, the consensus rules shall prevail.
+
 1.2. This constitution shall be enforced according to de jure interpretations of the Statutes (the letter of the constitution), except in the case of amendments to the Constitution or Pocket Core’s consensus rules, in which case they shall be enforced according to de facto interpretations of the Principles (the spirit of the constitution).
+
 1.3. Where it concerns de jure interpretations of the Statutes, any rule of construction to the effect that ambiguities are to be resolved shall not be applied in the construction or interpretation of this Constitution. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, between the Parties with respect to the subject matter hereof.
 
 ## 2. Enforceability
