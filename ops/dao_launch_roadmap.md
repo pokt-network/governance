@@ -20,7 +20,7 @@ None
 ### Steps / Available Actions:
  * Initialize the Council with 5 founding Voters, who will each be assigned a VOTE in Aragon and be required to send 1,000 POKT (their Governance Stake) to the DAO treasury
  * Assign these founding Voters the role of Champion as well, which means they can vouch for new Voters and vote in new Champions
- * The first action of the Council will be voting to ratify the Constitution, providing a supermajority of founding Voters (80% yes votes) consent to the Constitution. No other action can be voted on until this has taken place
+ * The first action of the Council will be voting unanimously to ratify the Constitution. No other action can be voted on until this has taken place
 
 ## 2: Growing the Seed
 
