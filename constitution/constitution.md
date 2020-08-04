@@ -385,6 +385,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 **Authors:** Jack Laing
 
 **Acknowledgements:**
-* The comments of Michael O’Rourke, Dermot O’Riordan, Nelson Ryan, Stéphane Gosselin, Adam Liposky, Gabriel Shapiro, Lawrence Lundy-Bryan, Philippe Honigeman, Louis Giraux, Felix Machart, Xule Lin, and John Light.
+* The comments of Michael O’Rourke, Dermot O’Riordan, Nelson Ryan, Stéphane Gosselin, Adam Liposky, Gabriel Shapiro, Lawrence Lundy-Bryan, Philippe Honigman, Louis Giraux, Felix Machart, Xule Lin, and John Light.
 * The legal advice of Ryan Williams and Ashok Ayyar of Ashbury Legal, and Michael Robinson and Bradley Kruger of Ogier, in designing the Pocket Network Foundation (Foundation).
 * Parts of the Statutes have leveraged a Qualified Code Deference template by Gabriel Shapiro, but this does not constitute an attorney-client relationship.
