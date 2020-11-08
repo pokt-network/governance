@@ -176,40 +176,31 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 ## 6. Proposals
 
-6.1. Proposers may initiate Signaling or Executive Votes for their proposal. They must specify which type of vote they are initiating.
-
-6.2. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of Pocket Network Inc will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
+6.1. Moderators may edit proposals only for the purpose of assigning numbers, categorizing, and updating the status of proposals. Anyone can apply to become a Moderator of any of the DAO’s communication channels, or propose the removal of existing Moderators, by submitting a PIP.
 
 ### PIPs
 
-6.3. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
+6.2. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
 
-6.4. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
+6.3. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution.
 
-6.5. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
+6.4. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
 
 ### PEPs
 
-6.6. Where a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
-
-6.7. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+6.5. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 
 ### PUPs
 
-6.8. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
+6.6. The following parameters will be governed by the Foundation in order to fulfill the target values for USDRelayTargetRange and ReturnOnInvestmentTarget set by the Council: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s target according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
 
-6.9. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council in 6.8: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
-
-6.10. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Voters. The Foundation will add Network IDs to the whitelist if 5% of Voters have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
-
-6.11. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
+6.7. All other On-Chain parameters not specified above will be governed using Majority Approval in votes lasting 7 days.
 
 ## 7. Finances
 
 7.1. Contributors agree to pay taxes on all DAO-related income in whichever jurisdiction they reside. The DAO will not be held liable for any neglect in this matter.
 
-7.2. The DAO will only accept incoming payments to its treasury in the form of the Pocket Network Block Reward.
-For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the Pocket Core DAO Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
+7.2. The DAO will only accept incoming payments to its treasury in the form of the Pocket Network Block Reward. For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the Pocket Core DAO Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
 
 7.3. It is forbidden to propose or approve unconditional general distributions of the Pocket Core DAO Treasury to token holders, which may be misconstrued as dividends.
 
@@ -225,9 +216,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 8.2. No Constitution amended to modify clauses or definitions marked with a ‡ will be accepted under any circumstance except per 8.6. 
 
-8.3. Constitutions amended to introduce a ‡ will be accepted if they have first received Supermajority Approval by way of a Signaling Vote as part of the PIP process.
+8.3. Constitutions amended to introduce a ‡ will be accepted if they have first received Supermajority Approval in the PIP process.
 
-8.4. No Constitution amended to modify clauses or definitions marked with a †, or to introduce a †, will be accepted unless the proposed amendment has first received Supermajority Approval by way of a Signaling Vote as part of the PIP process.
+8.4. No Constitution amended to modify clauses or definitions marked with a †, or to introduce a †, will be accepted unless the proposed amendment has first received Supermajority Approval in the PIP process.
 
 #### Undo
 
@@ -273,9 +264,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * In all instances where Voters enforce this Constitution using Aragon Agreements, PNI will instead take on the responsibility using Aragon Approvals;
   * To reduce the friction of onboarding the first Voters, the Maturation Period for Governance Stakes will not be required.
 
-9.3. The Council’s signaling of pricing preferences (6.8) will not begin until Aragon’s Conviction Voting apps are available for operation and the rate of growth of the Block Reward has been negative for a continuous period of 7 days. Until this happens, the Foundation has unbounded discretion in 6.9.
-
-9.4. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
+9.3. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
 
 # Definitions
@@ -290,28 +279,23 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Constitution:** this binding agreement around which the Pocket Network DAO coordinates
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem, such as proposal recipients, bounty recipients, and protocol developers
-* **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
-* **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
-* **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
 * **Decentralization Day:** a legal milestone for the decentralization of Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of Pocket Network, who collectively govern the public goods that are Pocket Core, the Pocket Core DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Designated Blockchain:** Pocket Core
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
-* **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Upgrades:** any amendment to the government apparatus of Pocket Network
 * **Governance Transactions:** transactions executing the results of Council decisions On-Chain
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
 * **Legislature:** the functions of the DAO responsible for decision-making
-* **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
-* **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
+* **Majority Approval:** 50% yes votes by Voters who voted on the proposal
 * **Nodes:** Pocket Network accounts that stake to process relays submitted by Apps and validate blocks in Pocket Core
 * **On-Chain:** any transaction that executes via submission to a blockchain, such as Pocket Core or Ethereum, meaning it is irreversible
 * **Pocket Core DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
 * **Ownerless Foundation:** a foundation which has no members and thus no-one with a legal right to its assets, with the intent of maintaining a lean Executive
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to the terms of this Constitution, per ‘Informed Consent’
-* **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
+* **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon or Discourse
 * **Person:** any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law
 * **Personhood:** the quality or condition of being an individual person
 * **Pocket (POKT) Arcade:** a series of gamified Pocket Network community quests that serve to onboard community members and qualify their Stakeholder status
@@ -331,18 +315,16 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using Pocket Network versus competing services
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
-* **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
 * **Stakeholder:** any Party who has qualified their participation in the Pocket Network community by reaching the required levels of POKT Arcade
-* **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
-* **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
+* **Supermajority Approval:** 80% yes votes by Voters who voted on the proposal
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards for Nodes, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
 * **User:** any Person or organization of Person(s) who maintain(s) direct use of Pocket Network’s services through staking or transactions or indirect access to Pocket Network’s services through relationships with third-party Pocket Network account-holders
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
-* **Vote:** a transaction within the Council by a Voter to approve a proposed action
-* **Voter:** a Stakeholder who has successfully claimed a Voting Token, by qualifying their Stakeholder status and verifying their Personhood, which means they are now a voting member of the Council
+* **Vote:** a signed message by a Voter signaling their approval or rejection of a proposed action
+* **Voter:** a Stakeholder who has successfully claimed a Voting Token, by qualifying their Stakeholder status and verifying their Personhood
 * **Voter Distribution:** the demographic of Voting Token holders
-* **Voting Token:** a blockchain token representing the owner’s right to submit Vote transactions
+* **Voting Token:** a blockchain token representing the owner’s right to submit Votes
 
 # Acknowledgements
 
