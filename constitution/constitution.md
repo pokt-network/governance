@@ -35,7 +35,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 2.1. Use of Pocket Core shall constitute consent to the terms of its consensus rules, including the mechanisms by which Validator Nodes, on behalf of all Users, accept Governance Transactions made by the Council and/or the Foundation in accordance with the processes outlined in this Constitution.
 
-2.2. Entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
+2.2. Entry into the Council shall constitute consent to the terms of this Constitution.
 
 2.3. In the event that an attempt is made by the Council or the Foundation to modify this Constitution or Pocket Core's consensus rules, consent may be revoked through exiting or forking, but will be immediately reinstated upon continued use of the blockchain, unless such use is required to facilitate exiting or forking.
 
@@ -73,9 +73,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 #### Submitting Actions
 
-4.2. To submit any action in the Council, accounts must be Stakeholders and sign this Constitution.
-
-4.3. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
+4.2. To initiate any Governance Transaction, Users must be Voters and stake the required collateral.
 
 #### Removing Voters
 
@@ -94,7 +92,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 4.7. If a Voter burns their own token, their Governance Stake will be redeemed; if a Voter has their token burned by the Council, their Governance Stake will be forfeited (burned).
 
-4.8. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
+4.8. Whichever account has the Pocket Core DAO Treasury permissions will be responsible for executing redemptions/burning.
 
 ### Executive
 
@@ -181,7 +179,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 ### Judiciary
 
-4.28. Any Voter can challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
+4.28. Any Voter can challenge Governance Transactions, if they think the transaction violates this Constitution, and offer a settlement up to the amount staked by the submitter of the transaction. The submitter of the transaction can then choose to either accept the settlement, cancelling the transaction, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
 ### Citizens
 
@@ -230,9 +228,9 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 7.1. Contributors agree to pay taxes on all DAO-related income in whichever jurisdiction they reside. The DAO will not be held liable for any neglect in this matter.
 
 7.2. The DAO will only accept incoming payments to its treasury in the form of the Pocket Network Block Reward.
-For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the On-Chain DAO Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
+For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the Pocket Core DAO Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
 
-7.3. It is forbidden to propose or approve unconditional general distributions of the On-Chain DAO Treasury to token holders, which may be misconstrued as dividends.
+7.3. It is forbidden to propose or approve unconditional general distributions of the Pocket Core DAO Treasury to token holders, which may be misconstrued as dividends.
 
 7.4. The Foundation may on the Council's behalf exchange POKT for another cryptocurrency or token for the purpose of using external blockchains.
 
@@ -249,8 +247,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 8.3. Constitutions amended to introduce a ‡ will be accepted if they have first received Supermajority Approval by way of a Signaling Vote as part of the PIP process.
 
 8.4. No Constitution amended to modify clauses or definitions marked with a †, or to introduce a †, will be accepted unless the proposed amendment has first received Supermajority Approval by way of a Signaling Vote as part of the PIP process.
-
-8.5. For the avoidance of doubt, uploading the amended Constitution via the Aragon Agreements app initiates an Executive Vote, which will be rejected if not preceded by a successful Signaling Vote.
 
 #### Undo
 
@@ -303,7 +299,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 # Definitions
 
-* **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the On-Chain DAO Treasury, burning funds in the On-Chain DAO Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
+* **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the Pocket Core DAO Treasury, burning funds in the Pocket Core DAO Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
 * **Aragon Agent:** a smart contract representative of an Aragon organization, enabling the organization to interact as one entity with external smart contracts and protocols
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
@@ -317,20 +313,20 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
 * **Decentralization Day:** a legal milestone for the decentralization of Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
-* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
+* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of Pocket Network, who collectively govern the public goods that are Pocket Core, the Pocket Core DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Designated Blockchain:** Pocket Core
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Upgrades:** any amendment to the government apparatus of Pocket Network
-* **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
+* **Governance Transactions:** transactions executing the results of Council decisions On-Chain
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
 * **Legislature:** the functions of the DAO responsible for decision-making
 * **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
 * **Nodes:** Pocket Network accounts that stake to process relays submitted by Apps and validate blocks in Pocket Core
-* **On-Chain:** any activity that takes place on Pocket Core
-* **On-Chain DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
+* **On-Chain:** any transaction that executes via submission to a blockchain, such as Pocket Core or Ethereum, meaning it is irreversible
+* **Pocket Core DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
 * **Ownerless Foundation:** a foundation which has no members and thus no-one with a legal right to its assets, with the intent of maintaining a lean Executive
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to the terms of this Constitution, per ‘Informed Consent’
