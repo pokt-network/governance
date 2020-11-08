@@ -258,13 +258,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 9.1. No decision by the Council shall be legitimate until the founding Voters of the Council have unanimously approved this Constitution.
 
-9.2. The following bootstrap measures will be in place until a Majority vote overrules them:
-  * The Council shall use the Ethereum Rinkeby testnet;
-  * All instances of Conviction Voting in the Constitution will be replaced by Majority Approval voting;
-  * In all instances where Voters enforce this Constitution using Aragon Agreements, PNI will instead take on the responsibility using Aragon Approvals;
-  * To reduce the friction of onboarding the first Voters, the Maturation Period for Governance Stakes will not be required.
-
-9.3. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
+9.2. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
 
 # Definitions
