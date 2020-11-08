@@ -300,7 +300,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 9.4. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
-9.5. The Champion option for the Trusted Stake will be in place at least until the Pocket Community Game has been in operation for one full season, after which the Council will hold a majority vote on whether to keep it.
 
 # Definitions
 
@@ -312,7 +311,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Block Reward:** POKT minted every time a block is successfully validated in Pocket Core
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
-* **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
 * **Constitution:** this binding agreement around which the Pocket Network DAO coordinates
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
