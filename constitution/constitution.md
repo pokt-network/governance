@@ -55,11 +55,11 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 ## 3. Arbitration
 
-3.1. Unless otherwise stated in this Constitution, any controversy between members of the Council arising out of or in connection with this Constitution shall be submitted to Aragon Court for resolution under its public arbitration rules, as amended from time to time.
+3.1. Unless otherwise stated in this Constitution, any controversy between members of the Council (Voters) arising out of or in connection with this Constitution shall be submitted to Aragon Court for resolution under its public arbitration rules, as amended from time to time.
 
-3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action.
+3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes On-Chain; if not, the action is irreversible and the controversy shall be deemed resolved in favor of the action.
 
-3.3. In the event that Aragon Court is not accessible, the Foundation shall refer the dispute to the International Chamber of Commerce for arbitration according to their rules.
+3.3. In the event that Aragon Court is not accessible, or actions cannot be directly submitted On-Chain by Voters, the Pocket Network Foundation will interpret and rule on any disputes that are raised by any Voter. If the Foundation’s ruling does not satisfy a Voter, they may formally request that the Foundation refer the dispute to the International Chamber of Commerce for arbitration according to their rules.
 
 3.4. By consenting to this Constitution, all Parties waive their right to resolve any controversy in any manner other than defined in this Constitution. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS CONSTITUTION, THE DAO, OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
 
@@ -302,7 +302,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of Pocket Network, including Protocol Upgrades and Governance Upgrades
 * **Pocket Core:** the blockchain that coordinates Pocket Network
 * **Pocket Network:** the suite of technologies and service providers that provide decentralized infrastructure for Users
-* **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
+* **Pocket Network Council (Council):** an unincorporated association of Voters who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
 * **Pocket Network Inc (PNI):** a Delaware LLC contracted by the Foundation to build Pocket Core and develop the Pocket Network ecosystem
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
