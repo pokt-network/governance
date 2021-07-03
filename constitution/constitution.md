@@ -203,7 +203,11 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 6.6. The following parameters will be governed by the Foundation in order to fulfill the target values for USDRelayTargetRange and ReturnOnInvestmentTarget set by the Council: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s target according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
 
-6.7. All other On-Chain parameters not specified above will be governed using Majority Approval in votes lasting 7 days.
+6.7. The SupportedBlockchains parameter will be governed by the Foundation in order to facilitate a frictionless onboarding experience for new chains. Before whitelisting, the Foundation will provide node runners with sufficient notice to deploy nodes for the new blockchain prior to whitelisting.
+
+6.8. The MaxApplications parameter will be governed by the Foundation to ensure economic security while bootstrapping new chains, per ‘PIP-6.2: Settlers of New Chains’, until Pocket Core has been upgraded to address targeted servicing.
+
+6.9. All other On-Chain parameters not specified above will be governed using Majority Approval in votes lasting 7 days.
 
 ## 7. Finances
 
