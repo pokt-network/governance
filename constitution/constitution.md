@@ -211,11 +211,9 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 7.1. Contributors agree to pay taxes on all DAO-related income in whichever jurisdiction they reside. The DAO will not be held liable for any neglect in this matter.
 
-7.2. The DAO will only accept incoming payments to its treasury in the form of the Pocket Network Block Reward. For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the Pocket Core DAO Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
+7.2. It is forbidden to propose or approve unconditional general distributions of the Pocket Core DAO Treasury to token holders, which may be misconstrued as dividends.
 
-7.3. It is forbidden to propose or approve unconditional general distributions of the Pocket Core DAO Treasury to token holders, which may be misconstrued as dividends.
-
-7.4. The Foundation may on the Council's behalf exchange POKT for another cryptocurrency or token for the purpose of using external blockchains.
+7.3. The Foundation may on the Council's behalf exchange POKT for another cryptocurrency or token for the purpose of using external blockchains.
 
 ## 8. Amendments
 
