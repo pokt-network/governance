@@ -193,21 +193,19 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 6.3. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution.
 
-6.4. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
-
 ### PEPs
 
-6.5. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+6.4. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 
 ### PUPs
 
-6.6. The following parameters will be governed by the Foundation in order to fulfill the target values for USDRelayTargetRange and ReturnOnInvestmentTarget set by the Council: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s target according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
+6.5. The following parameters will be governed by the Foundation in order to fulfill the target values for USDRelayTargetRange and ReturnOnInvestmentTarget set by the Council: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s target according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
 
-6.7. The SupportedBlockchains parameter will be governed by the Foundation in order to facilitate a frictionless onboarding experience for new chains. Before whitelisting, the Foundation will provide node runners with sufficient notice to deploy nodes for the new blockchain prior to whitelisting.
+6.6. The SupportedBlockchains parameter will be governed by the Foundation in order to facilitate a frictionless onboarding experience for new chains. Before whitelisting, the Foundation will provide node runners with sufficient notice to deploy nodes for the new blockchain prior to whitelisting.
 
-6.8. The MaxApplications parameter will be governed by the Foundation to ensure economic security while bootstrapping new chains, per ‘PIP-6.2: Settlers of New Chains’, until Pocket Core has been upgraded to address targeted servicing.
+6.7. The MaxApplications parameter will be governed by the Foundation to ensure economic security while bootstrapping new chains, per ‘PIP-6.2: Settlers of New Chains’, until Pocket Core has been upgraded to address targeted servicing.
 
-6.9. All other On-Chain parameters not specified above will be governed using Majority Approval in votes lasting 7 days.
+6.8. All other On-Chain parameters not specified above will be governed using Majority Approval in votes lasting 7 days.
 
 ## 7. Finances
 
@@ -270,8 +268,6 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 ## 9. Initialization
 
 9.1. No decision by the Council shall be legitimate until the founding Voters of the Council have unanimously approved this Constitution.
-
-9.2. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
 
 # Definitions
